@@ -1,0 +1,21 @@
+
+.form-container {
+	margin-top: 5rem;
+	border: 1px solid #ccc;
+	background: white;
+	padding: 2rem;
+	border-radius: 5px;
+}
+body {
+	background: linear-gradient(to bottom right, #FFFFFF, #F8DCEB, #FCD4A9, #B4D8E7, #C4E7C1);
+	background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+.toast {
+	position: absolute; 
+	top: 10px; right: 10px;
+}
+.btn-full {
+	width: 100%;
+}
