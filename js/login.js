@@ -4,8 +4,8 @@ $(document).ready(function () {
         var username = document.getElementById('username').value;
         var password = document.getElementById('password').value;
 
-        const url = 'php/login.php'; // Replace with your API endpoint URL 
-        var data = { // Replace with your JSON data
+        const url = 'php/login.php';
+        var data = { 
             username: username,
             password: password
         };
